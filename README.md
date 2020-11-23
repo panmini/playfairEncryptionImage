@@ -1,3 +1,3 @@
 # playfairEncryptionImage
 
-Developed w/ Mertcan Özkan
+Developed w/ Buğrahan Arslan
